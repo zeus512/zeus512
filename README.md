@@ -2,7 +2,6 @@
 <div align="center">
 <img width="100%"  src="https://github.com/user-attachments/assets/201755e2-8e81-4f52-a09c-96c917164ddd" alt="cover" />
 </div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
@@ -12,16 +11,11 @@
 <div size='20px'> Hi! My name is Goutham Reddy. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on PicShare project - a mobile focussed multi-platform friendly app to intelligently recognise different faces in your gallery and Supports sharing images over intra and inter network without loss of quality 
-"A New Way to Share Photos Seamlessly Across Devices"
-"Secure and Private Transfers with Blockchain Encryption"
-"Mobile-Friendly and Designed for High-Quality Sharing"
-"One-to-Many Transfer Support for Closed Networks"
+- 🔭 I’m currently working on PicShare project - a mobile focussed multi-platform friendly app to intelligently recognise different faces in your gallery and Supports sharing images over intra and inter network without loss of quality <br>
+more info on <a href="picsee.in">Picsee Website</a>
 
 
 - 🌱 I’m currently learning A.I./ M.L. - to stay in the race , catching up with Android ChangeLog etc... 
