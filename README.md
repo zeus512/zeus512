@@ -5,6 +5,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
+<h1> visitors count -  <img src="https://profile-counter.glitch.me/zeus512/count.svg"/> </h1> 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/zeus512) -->
 
 </p>
